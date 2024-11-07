@@ -39,4 +39,5 @@ def text_editor(stdscr):
             col += 1
 
 curses.wrapper(text_editor)
-# Linux
+
+       
